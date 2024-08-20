@@ -29,9 +29,9 @@ else:
     SECRET_KEY = 'django-insecure-a^%uiogxyxs@gd%i1f@n@l3d3bc1mkfffs@7(z^pskmxnf+!_u'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ["projetohashflixdjango-production-658e.up.railway.app/", "localhost", "http://127.0.0.1"]
+ALLOWED_HOSTS = ["projetohashflixdjango-production-658e.up.railway.app", "localhost", "http://127.0.0.1"]
 
 
 # Application definition
