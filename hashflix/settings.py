@@ -31,8 +31,8 @@ else:
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-#ALLOWED_HOSTS = ["projetohashflixdjango-production-658e.up.railway.app", "localhost", "http://127.0.0.1"]
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = ["projetohashflixdjango-production-658e.up.railway.app/", "localhost", "http://127.0.0.1"]
+
 
 # Application definition
 
